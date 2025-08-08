@@ -390,16 +390,10 @@ in the Software without restriction...
 5. Open a Pull Request
 
 ### 🌟 **Contributors**
-- **[Your Name]** - *Initial work* - [GitHub Profile]
+- **[นาย สิทธิรัช พรหมคุณ]** - *Initial work* - [GitHub Profile]
 
 ---
 
-## 📞 Support & Contact
-
-### 💬 **Get Help**
-- 📧 Email: support@deliciousrecipes.app
-- 💻 GitHub Issues: [Report Bug](../../issues)
-- 📱 Discord: [Join Community](https://discord.gg/recipes)
 
 ### 🌟 **Show Your Support** 
 ถ้าแอปนี้มีประโยชน์ กรุณา ⭐ Star repository นี้เพื่อเป็นกำลังใจ!
